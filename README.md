@@ -1,2 +1,6 @@
 # CSS-Learning-Journey
-learning css code
+learning css
+<hr>
+<br>
+ repo contains css code term with code.
+ 
